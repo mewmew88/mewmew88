@@ -1,5 +1,5 @@
- 👋 Hi, I’m Mehr-Un-Nasa
-👀 I am a qualifed dental nurse and a full-time student studying Operating Department Practitoner in univeristy. I decided to learn front-end development as a hobby as it was something I always had an interest in (time travel back to hi5 and Bebo time) creating templates and editing them to suit my needs. I self taught myself how to use photoshop using youtube tutorials and deviantart. 
+👋 Hi, I'm MewMew
+👀 I decided to learn front-end development as a hobby as it was something I always had an interest in (time travel back to hi5 and Bebo time) creating templates and editing them to suit my needs. I self taught myself how to use photoshop using youtube tutorials and deviantart. 
 🌱 I’m a huge Marvel fan with an odd like of DC here and there 
 
 
